@@ -1,4 +1,4 @@
-# Epifanio (Anthony) Silva
+# Epifanio Silva
 
 Media Support Engineer focused on IPTV, OTT streaming, CATV, broadcast/headend systems, and backend video delivery platforms.
 
